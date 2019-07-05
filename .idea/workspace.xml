@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfa86d97-904c-4f72-b245-eb55f108e803" name="Default Changelist" comment="" />
+    <list default="true" id="dfa86d97-904c-4f72-b245-eb55f108e803" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/MagnetPattern.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/PathDependentTypes.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/ScalaConversions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/StructuralTypes.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/TypeMembers.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/Variance.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part4Implicits/MagnetPattern.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part4Implicits/ScalaJavaConversions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part5TypeSystem/FBoundedPolymorphism.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part5TypeSystem/HigherKindedTypes.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part5TypeSystem/Inheritance.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part5TypeSystem/PathDependentTypes.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part5TypeSystem/Reflection.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part5TypeSystem/SelfTypes.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part5TypeSystem/StructuralTypes.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part5TypeSystem/TypeMembers.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part5TypeSystem/Variance.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +34,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lectures/part4Implicits/JSONSerialization.scala">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lectures/part5TypeSystem/HigherKindedTypes.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="118" column="3" lean-forward="true" selection-start-line="118" selection-start-column="3" selection-end-line="118" selection-end-column="3" />
+            <state relative-caret-position="300">
+              <caret line="72" column="28" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
+              <folding>
+                <element signature="e#34#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lectures/part5TypeSystem/Reflection.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -38,7 +70,11 @@
       <find>ConsSet</find>
       <find>println</find>
       <find>NameSer</find>
+      <find>buffer</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -73,14 +109,32 @@
         <option value="$PROJECT_DIR$/src/lectures/part4Implicits/TypeClasses.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part4Implicits/TypeClassEnrichment.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part4Implicits/JSONSerialization.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part4Implicits/MagnetPattern.scala" />
+        <option value="$PROJECT_DIR$/src/exercises/MagnetPattern.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part4Implicits/ScalaJavaConversions.scala" />
+        <option value="$PROJECT_DIR$/src/exercises/ScalaConversions.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part5TypeSystem/Inheritance.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part5TypeSystem/Variance.scala" />
+        <option value="$PROJECT_DIR$/src/exercises/Variance.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part5TypeSystem/TypeMembers.scala" />
+        <option value="$PROJECT_DIR$/src/exercises/TypeMembers.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part5TypeSystem/PathDependentApps.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part5TypeSystem/PathDependentTypes.scala" />
+        <option value="$PROJECT_DIR$/src/exercises/PathDependentTypes.scala" />
+        <option value="$PROJECT_DIR$/src/exercises/StructuralTypes.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part5TypeSystem/SelfTypes.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part5TypeSystem/FBoundedPolymorphism.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part5TypeSystem/StructuralTypes.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part5TypeSystem/HigherKindedTypes.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part5TypeSystem/Reflection.scala" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="722" />
-    <option name="width" value="718" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="847" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -102,7 +156,13 @@
               <item name="hello-scala-advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello-scala-advanced" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="part4Implicits" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-scala-advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-scala-advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="part5TypeSystem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -113,6 +173,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
@@ -127,13 +188,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JSONSerialization">
-    <configuration name="JSONSerialization" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part4Implicits.JSONSerialization" />
+  <component name="RunManager" selected="Application.Reflection">
+    <configuration name="HigherKindedTypes" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part5TypeSystem.HigherKindedTypes" />
       <module name="hello-scala-advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part4Implicits.*" />
+          <option name="PATTERN" value="lectures.part5TypeSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PimpMyLibrary (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part4Implicits.PimpMyLibrary" />
+    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part5TypeSystem.Inheritance" />
       <module name="hello-scala-advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part4Implicits.*" />
+          <option name="PATTERN" value="lectures.part5TypeSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,8 +215,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeClass" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.TypeClass" />
+    <configuration name="Reflection" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part5TypeSystem.Reflection" />
+      <module name="hello-scala-advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part5TypeSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeMembers" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.TypeMembers" />
       <module name="hello-scala-advanced" />
       <extension name="coverage">
         <pattern>
@@ -167,25 +241,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeClassEnrichment" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part4Implicits.TypeClassEnrichment" />
+    <configuration name="Variance" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part5TypeSystem.Variance" />
       <module name="hello-scala-advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part4Implicits.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TypeClasses" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part4Implicits.TypeClasses" />
-      <module name="hello-scala-advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lectures.part4Implicits.*" />
+          <option name="PATTERN" value="lectures.part5TypeSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JSONSerialization" />
-        <item itemvalue="Application.TypeClass" />
-        <item itemvalue="Application.TypeClassEnrichment" />
-        <item itemvalue="Application.TypeClasses" />
-        <item itemvalue="Application.PimpMyLibrary (1)" />
+        <item itemvalue="Application.Reflection" />
+        <item itemvalue="Application.HigherKindedTypes" />
+        <item itemvalue="Application.TypeMembers" />
+        <item itemvalue="Application.Variance" />
+        <item itemvalue="Application.Inheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +278,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="721" y="0" width="719" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="847" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.38109306" />
@@ -229,7 +290,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3615894" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -380,29 +441,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercises/Futures.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="101" column="21" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
-          <folding>
-            <element signature="e#19#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/part3Concurrency/ThreadCommunication.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="98" column="12" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="25" />
-          <folding>
-            <element signature="e#35#66#0" expanded="true" />
-            <element signature="e#244#441#1" />
-            <element signature="e#445#1016#0" />
-            <element signature="e#1041#1712#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lectures/part3Concurrency/ParallelUtils.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -478,8 +516,161 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lectures/part4Implicits/JSONSerialization.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="118" column="3" lean-forward="true" selection-start-line="118" selection-start-column="3" selection-end-line="118" selection-end-column="3" />
+        <state relative-caret-position="272">
+          <caret line="122" column="46" lean-forward="true" selection-start-line="122" selection-start-column="46" selection-end-line="122" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part4Implicits/MagnetPattern.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
+          <folding>
+            <element signature="e#33#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/MagnetPattern.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part3Concurrency/ThreadCommunication.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="88" column="4" lean-forward="true" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="59" />
+          <folding>
+            <element signature="e#35#66#0" expanded="true" />
+            <element signature="e#1041#1712#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part4Implicits/ScalaJavaConversions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <element signature="e#33#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/ScalaConversions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part5TypeSystem/Inheritance.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="92" column="2" selection-start-line="92" selection-start-column="2" selection-end-line="92" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/Variance.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="98" column="76" selection-start-line="98" selection-start-column="76" selection-end-line="98" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part5TypeSystem/Variance.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="87" column="19" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part5TypeSystem/PathDependentApps.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/TypeMembers.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part5TypeSystem/TypeMembers.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part5TypeSystem/PathDependentTypes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/StructuralTypes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/PathDependentTypes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part5TypeSystem/FBoundedPolymorphism.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="163" column="47" selection-start-line="163" selection-start-column="47" selection-end-line="163" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part5TypeSystem/SelfTypes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="38" column="19" lean-forward="true" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercises/Futures.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part5TypeSystem/StructuralTypes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part5TypeSystem/HigherKindedTypes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="72" column="28" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
+          <folding>
+            <element signature="e#34#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part5TypeSystem/Reflection.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
         </state>
       </provider>
     </entry>
